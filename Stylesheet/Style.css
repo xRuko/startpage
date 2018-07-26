@@ -11,7 +11,7 @@ body {
     height:100%;
     width:100%;
     position:absolute;
-    background-size: 100%;
+    background-size: 1920px 1080px !important;
 }
 #Logo {
     width: 200px;
