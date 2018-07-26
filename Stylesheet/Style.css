@@ -6,8 +6,7 @@ body {
     background-image: url(http://puu.sh/B3lrd/64cde78c97.jpg) top center no-repeat fixed;
     background-color: #A8A49B;
     padding: 0;
-    min-width: 100%;
-    min-height: 100%;
+    background-size: auto;
 }
 #Logo {
     width: 200px;
