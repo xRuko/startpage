@@ -5,10 +5,8 @@
 body {
     background-image: url(http://puu.sh/B3lrd/64cde78c97.jpg);
     background-color: #A8A49B;
-    margin: 0;
     padding: 0;
-    height: 100%;
-    background-size: 100%;
+    background-size:cover;
 }
 #Logo {
     width: 200px;
