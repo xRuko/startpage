@@ -107,31 +107,3 @@ A:hover {
     color: rgba(250, 250, 250, 1);
     border-color: rgba(250, 250, 250, 0.45);
 }
-        background-color: #231f20;
-        height: 20px;
-        width: 75px;
-        border-radius: 5px;
-        outline: 0 none;
-        padding: 6px;
-        padding-top: 5%;
-        opacity: 0.55;
-        margin-right: 120px;
-        text-align: center;
-    }
-    #stream {
-        font-family: Arial, sans-serif;
-        color: rgba(250, 250, 250, 0.8);
-        font-size: 12px;
-        border: none;
-        background-color: #231f20;
-        height: 20px;
-        width: 75px;
-        border-radius: 5px;
-        outline: 0 none;
-        padding: 6px;
-        padding-top: 5%;
-        opacity: 0.55;
-        margin-right: 0px;
-        margin-top: -36px;
-        text-align: center;
-    }
