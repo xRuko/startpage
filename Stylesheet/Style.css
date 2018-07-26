@@ -4,7 +4,7 @@
 }
 
 body {
-	background-image:url("https://wallpapercave.com/wp/wp1836700.jpg");
+	background-image:url(https://wallpapercave.com/wp/wp1836700.jpg);
 	background-color: #A8A49B;
 	margin:0;
 	padding:0;
@@ -48,21 +48,6 @@ body {
 	outline: 0 none;
 	padding: 6px;
 	opacity: 0.55;
-}
-
-/*=======================================
-               Menu
-=========================================*/
-
-#Menu {
-	Width: 100px;
-	Height: 100%;
-	background-color: #231f20;
-	opacity: 0.55;
-	left:0px;
-	top: 0px;
-	position:absolute;
-	display:none;
 }
 
 ul {
