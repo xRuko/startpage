@@ -3,9 +3,12 @@
     margin: auto;
 }
 body {
-    background-image: url(http://puu.sh/B3lrd/64cde78c97.jpg) top center;
+    background-image: url(http://puu.sh/B3lrd/64cde78c97.jpg);
     background-color: #A8A49B;
     padding: 0;
+    height:100%;
+    width:100%;
+    position:absolute;
     background-size: 100%;
 }
 #Logo {
